@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  CosmoCast
+
+  Created by Shihab Mehboob on 12/09/2018.
+  Copyright © 2018 Shihab Mehboob. All rights reserved.
+*/
+
+"Podcasts" = "Podcasts";
+"Discover" = "Entdecken";
+"Episodes" = "Episoden";
+"Playlist" = "Wiedergabeliste";
+"TOP PODCASTS" = "OBEN PODCASTS";
+"CURATED NETWORKS" = "KURATIERTE NETZWERKE";
+"TOPICS" = "THEMEN";
+"REGION" = "REGION";
+"OTHER" = "ANDERE";
+"Arts" = "Kunst";
+"Business" = "Geschäft";
+"Comedy" = "Komödie";
+"Education" = "Bildung";
+"Games & Hobbies" = "Spiele und Hobbys";
+"Government & Organisations" = "Regierung und Organisationen";
+"Health" = "Gesundheit";
+"Kids & Family" = "Kinder und Familie";
+"Music" = "Musik";
+"News & Politics" = "Nachrichten und Politik";
+"Religion & Spirituality" = "Religion und Spiritualität";
+"Science & Medicine" = "Wissenschaft und Medizin";
+"Society & Culture" = "Gesellschaft und Kultur";
+"Sports & Recreation" = "Sport & Erholung";
+"Technology" = "Technologie";
+"TV & Film" = "Fernsehen und Film";
+"All" = "Alle";
+"Local" = "Lokal";
+"Export Subscribed Podcasts" = "Abonnierte Podcasts Exportieren";
+"episodes by" = "folgen von";
+"episodes" = "episoden";
+"Subscribe to Podcast" = "Podcast Abonnieren";
+"Remove from Subscriptions" = "Aus Abonnements Entfernen";
+"More by the Author" = "Mehr vom Autor";
+"Share Podcast" = "Podcast Teilen";
+"Play Episode" = "Episode Abspielen";
+"Download and Add to Playlist" = "Herunterladen und zur Playlist Hinzufügen";
+"Episode Website" = "Episodenwebsite";
+"Share Episode" = "Episode Teilen";
+"Search for podcasts or paste URL" = "Suchen Sie nach Podcasts oder fügen Sie URL ein";
+"Column Grid" = "Spaltenraster";
+"Toggle Theme" = "Thema Umschalten";
+"Sleep Timer" = "Schlaf-Timer";
+"Cancel Sleep Timer" = "Abbrechen Schlaf-Timer";
+"Seconds" = "Sekunden";
+"Minute" = "Minute";
+"Minutes" = "Minuten";
+"Hour" = "Stunde";
+"Hours" = "Std";
+"End of Episode" = "Ende der Episode";
+"Enable Volume Boost" = "Aktivieren Sie die Lautstärkeanhebung";
+"Disable Volume Boost" = "Deaktivieren Sie die Lautstärkeanhebung";
+"Play Next" = "Spielen Sie Weiter";
+"Playback Speed" = "Wiedergabegeschwindigkeit";
+"Back Skip Duration" = "Zurück Dauer Überspringen";
+"Forward Skip Duration" = "Vorwärtsdauer Überspringen";
+"Download Episode" = "Episode Herunterladen";
+"Play" = "Abspielen";
+"Pause" = "Halt";
+"Play or pause the current episode" = "Spielen oder pausieren Sie die aktuelle Episode";
+"Switch to light mode" = "Wechseln sie in den Lichtmodus";
+"Switch to dark mode" = "Wechseln sie in den dunklen Modus";
+"Switch to true black dark mode" = "In den absoluten dunkelmodus wechseln";
+"Remove from Playlist" = "Aus Playlist Entfernen";
+"Downloaded" = "Heruntergeladen";
+"The player is even more amazing once you've selected a podcast to play" = "Der spieler ist noch erstaunlicher, wenn sie einen podcast zum spielen ausgewählt haben";
+"Select a podcast from the Subscribed, Discover, or Playlist section..." = "Wählen sie im bereich Abonniert, Discover oder Playlist einen podcast aus...";
+"Episodes you download and add to your playlist will appear here" = "Episoden, die du heruntergeladen und deiner Playlist hinzugefügt hast, werden hier angezeigt";
+"Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here" = "Abonnierte Podcasts werden hier angezeigt.\n\nBesuchen Sie den Abschnitt Discover oder suchen Sie nach Podcasts, um sie hier hinzuzufügen";
+"Discover Podcasts" = "Entdecken";
+"Dismiss" = "Entlassen";
+"Please select an option" = "Bitte wähle eine Option";
+"Subscribed" = "Gezeichnet";
+"Unsubscribed" = "Abgemeldet";
+"Downloading" = "Wird Heruntergeladen";

@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  CosmoCast
+
+  Created by Shihab Mehboob on 12/09/2018.
+  Copyright © 2018 Shihab Mehboob. All rights reserved.
+*/
+
+"Podcasts" = "ポッドキャスト";
+"Discover" = "発見";
+"Episodes" = "エピソード";
+"Playlist" = "プレイリスト";
+"TOP PODCASTS" = "トップポッドキャスト";
+"CURATED NETWORKS" = "キュレーションされたネットワーク";
+"TOPICS" = "トピック";
+"REGION" = "領域";
+"OTHER" = "その他";
+"Arts" = "芸術";
+"Business" = "ビジネス";
+"Comedy" = "コメディー";
+"Education" = "教育";
+"Games & Hobbies" = "ゲームと趣味";
+"Government & Organisations" = "政府と組織";
+"Health" = "健康";
+"Kids & Family" = "子供と家族";
+"Music" = "音楽";
+"News & Politics" = "ニュースと政治";
+"Religion & Spirituality" = "宗教と精神世界";
+"Science & Medicine" = "科学と医学";
+"Society & Culture" = "社会と文化";
+"Sports & Recreation" = "スポーツとレクリエーション";
+"Technology" = "技術";
+"TV & Film" = "テレビと映画";
+"All" = "すべて";
+"Local" = "地元";
+"Export Subscribed Podcasts" = "購読されたポッドキャストのエクスポート";
+"episodes by" = "エピソード";
+"episodes" = "エピソード";
+"Subscribe to Podcast" = "ポッドキャストを購読する";
+"Remove from Subscriptions" = "購読から削除";
+"More by the Author" = "著者による詳細";
+"Share Podcast" = "ポッドキャストを共有する";
+"Play Episode" = "エピソードをプレイ";
+"Download and Add to Playlist" = "ダウンロードしてプレイリストに追加";
+"Episode Website" = "エピソードウェブサイト";
+"Share Episode" = "エピソードを共有";
+"Search for podcasts or paste URL" = "ポッドキャストを検索するか、URLを貼り付ける";
+"Column Grid" = "列グリッド";
+"Toggle Theme" = "トグルテーマ";
+"Sleep Timer" = "目覚まし時計";
+"Cancel Sleep Timer" = "スリープタイマーをキャンセルする";
+"Seconds" = "秒";
+"Minute" = "分";
+"Minutes" = "分";
+"Hour" = "時間";
+"Hours" = "時間";
+"End of Episode" = "エピソードの終わり";
+"Enable Volume Boost" = "ボリュームブーストを有効にする";
+"Disable Volume Boost" = "ボリュームブーストを無効にする";
+"Play Next" = "次のプレイ";
+"Playback Speed" = "再生速度";
+"Back Skip Duration" = "戻るスキップ時間";
+"Forward Skip Duration" = "前方スキップ時間";
+"Download Episode" = "エピソードをダウンロード";
+"Play" = "遊びます";
+"Pause" = "一時停止";
+"Play or pause the current episode" = "現在のエピソードを再生または一時停止する";
+"Switch to light mode" = "ライトモードに切り替える";
+"Switch to dark mode" = "暗いモードに切り替える";
+"Switch to true black dark mode" = "真の黒の暗いモードに切り替える";
+"Remove from Playlist" = "プレイリストから削除";
+"Downloaded" = "ダウンロード済み";
+"The player is even more amazing once you've selected a podcast to play" = "プレイするポッドキャストを選択すると、プレイヤーはさらに驚くようになります";
+"Select a podcast from the Subscribed, Discover, or Playlist section..." = "サブスクライブされたディスカバーまたはプレイリストセクションからポッドキャストを選択する...";
+"Episodes you download and add to your playlist will appear here" = "あなたがダウンロードしてプレイリストに追加するエピソードがここに表示されます";
+"Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here" = "購読したポッドキャストがここに表示されます\n\nディスカバーセクションを開くか、ポッドキャストを検索してここに追加します";
+"Discover Podcasts" = "発見";
+"Dismiss" = "却下する";
+"Please select an option" = "オプションを選んでください";
+"Subscribed" = "購読した";
+"Unsubscribed" = "登録されていない";
+"Downloading" = "ダウンロード";

@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  CosmoCast
+
+  Created by Shihab Mehboob on 12/09/2018.
+  Copyright © 2018 Shihab Mehboob. All rights reserved.
+*/
+
+"Podcasts" = "播客";
+"Discover" = "发现";
+"Episodes" = "情节";
+"Playlist" = "播放列表";
+"TOP PODCASTS" = "顶级播客";
+"CURATED NETWORKS" = "策划的网络";
+"TOPICS" = "主题";
+"REGION" = "地区";
+"OTHER" = "其他";
+"Arts" = "艺术";
+"Business" = "商业";
+"Comedy" = "喜剧";
+"Education" = "教育";
+"Games & Hobbies" = "游戏和爱好";
+"Government & Organisations" = "政府和组织";
+"Health" = "健康";
+"Kids & Family" = "儿童与家庭";
+"Music" = "音乐";
+"News & Politics" = "新闻与政治";
+"Religion & Spirituality" = "宗教与灵性";
+"Science & Medicine" = "科学与医学";
+"Society & Culture" = "社会与文化";
+"Sports & Recreation" = "运动休闲";
+"Technology" = "技术";
+"TV & Film" = "电视和电影";
+"All" = "所有";
+"Local" = "本地";
+"Export Subscribed Podcasts" = "导出订阅的播客";
+"episodes by" = "剧集";
+"episodes" = "发作";
+"Subscribe to Podcast" = "订阅播客";
+"Remove from Subscriptions" = "从订阅中删除";
+"More by the Author" = "更多作者";
+"Share Podcast" = "分享播客";
+"Play Episode" = "播放剧集";
+"Download and Add to Playlist" = "下载并添加到播放列表";
+"Episode Website" = "剧集网站";
+"Share Episode" = "分享剧集";
+"Search for podcasts or paste URL" = "搜索播客或粘贴网址";
+"Column Grid" = "列网格";
+"Toggle Theme" = "切换主题";
+"Sleep Timer" = "睡眠定时器";
+"Cancel Sleep Timer" = "取消睡眠定时器";
+"Seconds" = "秒";
+"Minute" = "分钟";
+"Minutes" = "分钟";
+"Hour" = "小时";
+"Hours" = "小时";
+"End of Episode" = "剧集结束";
+"Enable Volume Boost" = "启用音量增强";
+"Disable Volume Boost" = "禁用音量增强";
+"Play Next" = "播放下一个";
+"Playback Speed" = "播放速度";
+"Back Skip Duration" = "返回跳过持续时间";
+"Forward Skip Duration" = "前进跳过持续时间";
+"Download Episode" = "下载剧集";
+"Play" = "玩";
+"Pause" = "暂停";
+"Play or pause the current episode" = "播放或暂停当前剧集";
+"Switch to light mode" = "切换到灯光模式";
+"Switch to dark mode" = "切换到暗模式";
+"Switch to true black dark mode" = "切换到真正的黑暗模式";
+"Remove from Playlist" = "从播放列表中删除";
+"Downloaded" = "下载";
+"The player is even more amazing once you've selected a podcast to play" = "一旦你选择播客播放，播放器就会更加惊人";
+"Select a podcast from the Subscribed, Discover, or Playlist section..." = "从订阅的发现或播放列表部分中选择一个播客...";
+"Episodes you download and add to your playlist will appear here" = "您下载并添加到播放列表的剧集将显示在此处";
+"Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here" = "订阅的播客将显示在此处\n\n访问“发现”部分或搜索播客以在此处添加它们";
+"Discover Podcasts" = "发现播客";
+"Dismiss" = "解雇";
+"Please select an option" = "请选择一个选项";
+"Subscribed" = "订阅";
+"Unsubscribed" = "退订";
+"Downloading" = "下载";

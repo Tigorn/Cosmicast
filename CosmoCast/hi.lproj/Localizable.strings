@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  CosmoCast
+
+  Created by Shihab Mehboob on 12/09/2018.
+  Copyright © 2018 Shihab Mehboob. All rights reserved.
+*/
+
+"Podcasts" = "पॉडकास्ट";
+"Discover" = "डिस्कवर";
+"Episodes" = "एपिसोड";
+"Playlist" = "प्लेलिस्ट";
+"TOP PODCASTS" = "शीर्ष पॉडकास्ट";
+"CURATED NETWORKS" = "सर्च नेटवर्क्स";
+"TOPICS" = "विषय";
+"REGION" = "क्षेत्र";
+"OTHER" = "अन्य";
+"Arts" = "कला";
+"Business" = "व्यापार";
+"Comedy" = "कॉमेडी";
+"Education" = "शिक्षा";
+"Games & Hobbies" = "खेल और शौक";
+"Government & Organisations" = "सरकार और संगठन";
+"Health" = "स्वास्थ्य";
+"Kids & Family" = "बच्चे और परिवार";
+"Music" = "संगीत";
+"News & Politics" = "समाचार और राजनीति";
+"Religion & Spirituality" = "धर्म और आध्यात्मिकता";
+"Science & Medicine" = "विज्ञान और चिकित्सा";
+"Society & Culture" = "समाज और संस्कृति";
+"Sports & Recreation" = "खेल और मनोरंजन";
+"Technology" = "प्रौद्योगिकी";
+"TV & Film" = "टेलीविजन और फिल्म";
+"All" = "सब";
+"Local" = "स्थानीय";
+"Export Subscribed Podcasts" = "सब्स्क्राइब्ड पॉडकास्ट निर्यात करें";
+"episodes by" = "द्वारा एपिसोड";
+"episodes" = "एपिसोड";
+"Subscribe to Podcast" = "पॉडकास्ट की सदस्यता लें";
+"Remove from Subscriptions" = "सदस्यता से निकालें";
+"More by the Author" = "लेखक द्वारा अधिक";
+"Share Podcast" = "पॉडकास्ट साझा करें";
+"Play Episode" = "एपिसोड खेलें";
+"Download and Add to Playlist" = "डाउनलोड करें और प्लेलिस्ट में जोड़ें";
+"Episode Website" = "एपिसोड वेबसाइट";
+"Share Episode" = "शेयर एपिसोड";
+"Search for podcasts or paste URL" = "पॉडकास्ट या पेस्ट यूआरएल के लिए खोजें";
+"Column Grid" = "कॉलम ग्रिड";
+"Toggle Theme" = "थीम बदलें";
+"Sleep Timer" = "सोने का टाइमर";
+"Cancel Sleep Timer" = "नींद टाइमर रद्द करें";
+"Seconds" = "सेकंड";
+"Minute" = "मिनट";
+"Minutes" = "मिनट";
+"Hour" = "घंटा";
+"Hours" = "घंटा";
+"End of Episode" = "एपिसोड का अंत";
+"Enable Volume Boost" = "उच्च मात्रा सक्षम करें";
+"Disable Volume Boost" = "उच्च मात्रा अक्षम करें";
+"Play Next" = "अगला खेलें";
+"Playback Speed" = "प्लेबैक स्पीड";
+"Back Skip Duration" = "वापस छोड़ें अवधि";
+"Forward Skip Duration" = "आगे की अवधि छोड़ें";
+"Download Episode" = "एपिसोड डाउनलोड करें";
+"Play" = "प्ले";
+"Pause" = "ठहराव";
+"Play or pause the current episode" = "वर्तमान एपिसोड चलाएं या रोकें";
+"Switch to light mode" = "लाइट मोड पर स्विच करें";
+"Switch to dark mode" = "अंधेरे मोड पर स्विच करें";
+"Switch to true black dark mode" = "सही काले अंधेरे मोड पर स्विच करें";
+"Remove from Playlist" = "प्लेलिस्ट से निकालें";
+"Downloaded" = "डाउनलोड की गई";
+"The player is even more amazing once you've selected a podcast to play" = "एक बार पॉडकास्ट खेलने के लिए चुनने के बाद खिलाड़ी और भी अद्भुत होता है";
+"Select a podcast from the Subscribed, Discover, or Playlist section..." = "सदस्यता, डिस्कवर, या प्लेलिस्ट अनुभाग से पॉडकास्ट का चयन करें";
+"Episodes you download and add to your playlist will appear here" = "आपके द्वारा डाउनलोड और आपके प्लेलिस्ट में जोड़े गए एपिसोड यहां दिखाई देंगे";
+"Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here" = "सब्स्क्राइब किए गए पॉडकास्ट यहां दिखाई देंगे\n\nडिस्कवर अनुभाग पर जाएं या उन्हें जोड़ने के लिए पॉडकास्ट की खोज करें";
+"Discover Podcasts" = "पॉडकास्ट खोजें";
+"Dismiss" = "खारिज";
+"Please select an option" = "कृपया एक विकल्प चुनें";
+"Subscribed" = "सदस्यता लिया";
+"Unsubscribed" = "सदस्यता छोड़ दी गई";
+"Downloading" = "डाउनलोड कर रहा है";

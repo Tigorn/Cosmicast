@@ -1,0 +1,6 @@
+framework module Pods_CosmoCast {
+  umbrella header "Pods-CosmoCast-umbrella.h"
+
+  export *
+  module * { export * }
+}

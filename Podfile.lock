@@ -1,0 +1,66 @@
+PODS:
+  - AEXML (4.2.2)
+  - Alamofire (4.6.0)
+  - Disk (0.3.3)
+  - FeedKit (7.0.1)
+  - FLAnimatedImage (1.0.12)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - OneSignal (2.6.1)
+  - PINCache (2.3)
+  - PINRemoteImage (2.1.4):
+    - PINRemoteImage/FLAnimatedImage (= 2.1.4)
+  - PINRemoteImage/Core (2.1.4):
+    - PINCache (>= 2.1)
+  - PINRemoteImage/FLAnimatedImage (2.1.4):
+    - FLAnimatedImage (>= 1.0)
+    - PINRemoteImage/Core
+  - SloppySwipingNav (2.0)
+  - StatusAlert (0.9.4)
+  - TinyConstraints (3.1.0)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire
+  - Disk
+  - FeedKit
+  - NVActivityIndicatorView
+  - OneSignal (< 3.0, >= 2.5.2)
+  - PINRemoteImage
+  - SloppySwipingNav
+  - StatusAlert
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AEXML
+    - Alamofire
+    - Disk
+    - FeedKit
+    - FLAnimatedImage
+    - NVActivityIndicatorView
+    - OneSignal
+    - PINCache
+    - PINRemoteImage
+    - SloppySwipingNav
+    - StatusAlert
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  AEXML: 5ebafc1b75e0bcf0f1b09b8ca8fed2d5a199479b
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Disk: d1f55cd61f6ca20f368232d0c6e37e3c3dfcb63e
+  FeedKit: 9be69ab57ef0eb922ee4b6c31cb6b8840a5bbb29
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  OneSignal: 5143194173b05027f89ce5c4481943ce000c87cd
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  PINRemoteImage: 4ac4011c5caefd6befd99758e09becede05d3226
+  SloppySwipingNav: 2338390e07ac0f455beac3c131b9cf519e8bd2c5
+  StatusAlert: 7f8a54b6031f7805bc3ac960cee531b61757ab2d
+  TinyConstraints: 4721a4b303c799328867078ade6560e152df54d1
+
+PODFILE CHECKSUM: 645dcc315510ad2f72f2a5d9f687abe1b6945ed7
+
+COCOAPODS: 1.5.0

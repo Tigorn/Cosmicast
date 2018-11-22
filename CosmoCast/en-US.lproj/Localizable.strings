@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  CosmoCast
+
+  Created by Shihab Mehboob on 12/09/2018.
+  Copyright © 2018 Shihab Mehboob. All rights reserved.
+*/
+
+"Podcasts" = "Podcasts";
+"Discover" = "Discover";
+"Episodes" = "Episodes";
+"Playlist" = "Playlist";
+"TOP PODCASTS" = "TOP PODCASTS";
+"CURATED NETWORKS" = "CURATED NETWORKS";
+"TOPICS" = "TOPICS";
+"REGION" = "REGION";
+"OTHER" = "OTHER";
+"Arts" = "Arts";
+"Business" = "Business";
+"Comedy" = "Comedy";
+"Education" = "Education";
+"Games & Hobbies" = "Games & Hobbies";
+"Government & Organisations" = "Government & Organizations";
+"Health" = "Health";
+"Kids & Family" = "Kids & Family";
+"Music" = "Music";
+"News & Politics" = "News & Politics";
+"Religion & Spirituality" = "Religion & Spirituality";
+"Science & Medicine" = "Science & Medicine";
+"Society & Culture" = "Society & Culture";
+"Sports & Recreation" = "Sports & Recreation";
+"Technology" = "Technology";
+"TV & Film" = "TV & Film";
+"All" = "All";
+"Local" = "Local";
+"Export Subscribed Podcasts" = "Export Subscribed Podcasts";
+"episodes by" = "episodes by";
+"episodes" = "episodes";
+"Subscribe to Podcast" = "Subscribe to Podcast";
+"Remove from Subscriptions" = "Remove from Subscriptions";
+"More by the Author" = "More by the Author";
+"Share Podcast" = "Share Podcast";
+"Play Episode" = "Play Episode";
+"Download and Add to Playlist" = "Download and Add to Playlist";
+"Episode Website" = "Episode Website";
+"Share Episode" = "Share Episode";
+"Search for podcasts or paste URL" = "Search for podcasts or paste URL";
+"Column Grid" = "Column Grid";
+"Toggle Theme" = "Toggle Theme";
+"Sleep Timer" = "Sleep Timer";
+"Cancel Sleep Timer" = "Cancel Sleep Timer";
+"Seconds" = "Seconds";
+"Minute" = "Minute";
+"Minutes" = "Minutes";
+"Hour" = "Hour";
+"Hours" = "Hours";
+"End of Episode" = "End of Episode";
+"Enable Volume Boost" = "Enable Volume Boost";
+"Disable Volume Boost" = "Disable Volume Boost";
+"Play Next" = "Play Next";
+"Playback Speed" = "Playback Speed";
+"Back Skip Duration" = "Back Skip Duration";
+"Forward Skip Duration" = "Forward Skip Duration";
+"Download Episode" = "Download Episode";
+"Play" = "Play";
+"Pause" = "Pause";
+"Play or pause the current episode" = "Play or pause the current episode";
+"Switch to light mode" = "Switch to light mode";
+"Switch to dark mode" = "Switch to dark mode";
+"Switch to true black dark mode" = "Switch to true black dark mode";
+"Remove from Playlist" = "Remove from Playlist";
+"Downloaded" = "Downloaded";
+"The player is even more amazing once you've selected a podcast to play" = "The player is even more amazing once you've selected a podcast to play";
+"Select a podcast from the Subscribed, Discover, or Playlist section..." = "Select a podcast from the Subscribed, Discover, or Playlist section...";
+"Episodes you download and add to your playlist will appear here" = "Episodes you download and add to your playlist will appear here";
+"Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here" = "Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here";
+"Discover Podcasts" = "Discover Podcasts";
+"Dismiss" = "Dismiss";
+"Please select an option" = "Please select an option";
+"Subscribed" = "Subscribed";
+"Unsubscribed" = "Unsubscribed";
+"Downloading" = "Downloading";

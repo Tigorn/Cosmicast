@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  CosmoCast
+
+  Created by Shihab Mehboob on 12/09/2018.
+  Copyright © 2018 Shihab Mehboob. All rights reserved.
+*/
+
+"Podcasts" = "подкасты";
+"Discover" = "Обнаружить";
+"Episodes" = "Эпизоды";
+"Playlist" = "список";
+"TOP PODCASTS" = "ТОП ПОДКАСТЫ";
+"CURATED NETWORKS" = "УКАЗАННЫЕ СЕТИ";
+"TOPICS" = "ТЕМЫ";
+"REGION" = "ОБЛАСТЬ";
+"OTHER" = "ДРУГИЕ";
+"Arts" = "искусства";
+"Business" = "Бизнес";
+"Comedy" = "комедия";
+"Education" = "образование";
+"Games & Hobbies" = "Игры и хобби";
+"Government & Organisations" = "Правительство и организации";
+"Health" = "Здоровье";
+"Kids & Family" = "Дети и семья";
+"Music" = "Музыка";
+"News & Politics" = "Новости и политика";
+"Religion & Spirituality" = "Религия и духовность";
+"Science & Medicine" = "Наука и медицина";
+"Society & Culture" = "Общество и культура";
+"Sports & Recreation" = "Спорт и отдых";
+"Technology" = "Технологии";
+"TV & Film" = "Телевидение и кино";
+"All" = "Все";
+"Local" = "Местный";
+"Export Subscribed Podcasts" = "Экспорт подписных подкастов";
+"episodes by" = "эпизодов";
+"episodes" = "эпизоды";
+"Subscribe to Podcast" = "Подписаться на подкасты";
+"Remove from Subscriptions" = "Удалить из подписки";
+"More by the Author" = "Еще от автора";
+"Share Podcast" = "Поделиться подкастом";
+"Play Episode" = "Эпизод игры";
+"Download and Add to Playlist" = "Загрузить и добавить в список";
+"Episode Website" = "Веб-сайт Эпизода";
+"Share Episode" = "Поделиться Эпизод";
+"Search for podcasts or paste URL" = "Поиск подкастов или вставка URL-адреса";
+"Column Grid" = "Столбчатая сетка";
+"Toggle Theme" = "Переключить тему";
+"Sleep Timer" = "Таймер сна";
+"Cancel Sleep Timer" = "Отменить таймер сна";
+"Seconds" = "секунд";
+"Minute" = "минут";
+"Minutes" = "минут";
+"Hour" = "Час";
+"Hours" = "часов";
+"End of Episode" = "Конец эпизода";
+"Enable Volume Boost" = "Включить увеличение громкости";
+"Disable Volume Boost" = "Отключить увеличение громкости";
+"Play Next" = "Играть дальше";
+"Playback Speed" = "Скорость воспроизведения";
+"Back Skip Duration" = "Назад Пропустить Длительность";
+"Forward Skip Duration" = "Продолжительность прохода вперед";
+"Download Episode" = "Скачать эпизод";
+"Play" = "Играть";
+"Pause" = "Пауза";
+"Play or pause the current episode" = "Воспроизведение или приостановка текущего эпизода";
+"Switch to light mode" = "Переключиться в режим освещения";
+"Switch to dark mode" = "Переключиться в темный режим";
+"Switch to true black dark mode" = "Переключиться в настоящий черный темный режим";
+"Remove from Playlist" = "Удалить из списка воспроизведения";
+"Downloaded" = "загруженный";
+"The player is even more amazing once you've selected a podcast to play" = "Игрок становится еще более удивительным после того, как вы выбрали подкаст для игры";
+"Select a podcast from the Subscribed, Discover, or Playlist section..." = "Выберите подкаст из раздела Подписка, Обнаружение или Список воспроизведения...";
+"Episodes you download and add to your playlist will appear here" = "Появятся эпизоды, которые вы загрузите и добавите в свой плейлист";
+"Subscribed podcasts will appear here\n\nVisit the Discover section or search for podcasts to add them here" = "Подписные подкасты появятся здесь\n\nВыберите раздел Поиск или найдите подкасты, чтобы добавить их здесь";
+"Discover Podcasts" = "Откройте подкасты";
+"Dismiss" = "отклонять";
+"Please select an option" = "Пожалуйста выберите вариант";
+"Subscribed" = "подписной";
+"Unsubscribed" = "Отписался";
+"Downloading" = "загрузка";
